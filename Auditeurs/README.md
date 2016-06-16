@@ -14,4 +14,4 @@
 * [NAJI DAGHER DAGHER](https://github.com/najidagher/Java-Card)
 * [Khalil Georges Bsaibes](https://github.com/khalilbsaibes/cassandra)
 * [Elias Pierre Bou Hanna](https://github.com/ebouhanna/SMB214-2016-Oracle-Berkeley-DB-JE)
-* 
+* [Bassem Assem Alameddine](https://github.com/balamddine/NewHtml5)
